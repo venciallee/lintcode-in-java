@@ -23,7 +23,7 @@ Tree
 
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
-|      |       |          |            |             |
+|  32  |   [Minimum Window Substring](https://www.lintcode.com/problem/minimum-window-substring/description)    |     slide window     |       Medium     |     [MinimumWindowSubstring.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/MinimumWindowSubstring.java)        |
 
 ## Dynamic Programming
 
@@ -35,7 +35,7 @@ Tree
 
 | #    | Title                                    | Solution                             | Difficulty | Source Code                              |
 | ---- | ---------------------------------------- | ------------------------------------ | ---------- | ---------------------------------------- |
-|  12  |   Min Stack    |     linkedlist     |       Medium     |     https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/stack/MinStack.java        |
+|  12  |   [Min Stack](https://www.lintcode.com/problem/min-stack/description)    |     linkedlist     |       Medium     |     [MinStack.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/stack/MinStack.java)        |
 
 ## Design
 
