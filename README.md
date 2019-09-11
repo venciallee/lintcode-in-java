@@ -23,7 +23,7 @@ Tree
 
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
-|      |       |          |            |             |
+|  32  |   [Minimum Window Substring](https://www.lintcode.com/problem/minimum-window-substring/description)    |     slide window     |       Medium     |     [MinimumWindowSubstring.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/MinimumWindowSubstring.java)        |
 
 ## Dynamic Programming
 
