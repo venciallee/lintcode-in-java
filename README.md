@@ -6,6 +6,7 @@ This is lintcode solution in Java with eplaination and generalization.
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
 |  35  |   [Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)    |          |       Easy     |     [ReverseLinkedList.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/linkedlist/ReverseLinkedList.java)        |
+|  134  |   [LRU Cache](https://www.lintcode.com/problem/lru-cache/description)    |  HashMap + linkedlist   |    Hard   |  [LRUCache.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/linkedlist/LRUCache.java) |
 
 Tree
 
