@@ -24,7 +24,8 @@ Tree
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
 |  32  |   [Minimum Window Substring](https://www.lintcode.com/problem/minimum-window-substring/description)    |     slide window     |       Medium     |     [MinimumWindowSubstring.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/MinimumWindowSubstring.java)        |
-|  53  |   [Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description)    |     reverse whole char, and reverse each word.     |       Easy     |     [ReverseWordsinaString.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/ReverseWordsinaString.java)        |
+|  53  | [Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description) | reverse whole char, and reverse each word. | Easy | [ReverseWordsinaString.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/ReverseWordsinaString.java)  |
+|  120  | [Word Ladder](https://www.lintcode.com/problem/word-ladder/description) | bfs | Hard | [WordLadder.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/WordLadder.java)  |
 
 ## Dynamic Programming
 
