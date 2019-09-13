@@ -19,6 +19,7 @@ Tree
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
 |  135  |   [Combination Sum](https://www.lintcode.com/problem/combination-sum/description)    |  backtrace   |    Medium   |  [CombinationSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/CombinationSum.java) |
+|  153  |   [Combination Sum II](https://www.lintcode.com/problem/combination-sum-ii/description)    |  backtrace   |    Medium   |  [CombinationSumII.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/CombinationSumII.java) |
 
 ## String
 
