@@ -33,7 +33,7 @@ Tree
 
 | #    | Title                                    | Solution | Difficulty | Source Code                              |
 | ---- | ---------------------------------------- | -------- | ---------- | ---------------------------------------- |
-|      |       |          |            |             |
+|  163  | [Unique Binary Search Trees](https://www.lintcode.com/problem/unique-binary-search-trees/description) | dp | Medium | [UniqueBinarySearchTrees.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/UniqueBinarySearchTrees.java)  |
 
 ## Stack
 
