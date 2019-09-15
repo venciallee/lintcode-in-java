@@ -46,6 +46,7 @@ Tree
 | #    | Title                                    | Solution                             | Difficulty | Source Code                              |
 | ---- | ---------------------------------------- | ------------------------------------ | ---------- | ---------------------------------------- |
 |  12  |   [Min Stack](https://www.lintcode.com/problem/min-stack/description)    |     linkedlist     |       Medium     |     [MinStack.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/stack/MinStack.java)        |
+|  528  |   [Flatten Nested List Iterator](https://www.lintcode.com/problem/flatten-nested-list-iterator/description)    |     stack     |       Medium     |     [FlattenNestedListIterator.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/stack/FlattenNestedListIterator.java)        |
 
 ## Design
 
