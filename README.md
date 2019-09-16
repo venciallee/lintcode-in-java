@@ -24,6 +24,7 @@ Tree
 |  564  |   [ Combination Sum IV](https://www.lintcode.com/problem/combination-sum-iv/description)    | dp or recursive  |    Medium   |  [CombinationSumIV.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/CombinationSumIV.java) |
 |  802  |   [Sudoku Solver](https://www.lintcode.com/problem/sudoku-solver/description)    | backtracking  |    Hard   |  [SudokuSolver.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/SudokuSolver.java) |
 |  919  |   [Meeting Rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/description)    | heap or treemap |    Medium   |  [MeetingRoomsII.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/MeetingRoomsII.java) |
+|  957  |   [Radar Detection](https://www.lintcode.com/problem/radar-detection/description)    |  |    Easy   |  [RadarDetection.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/RadarDetection.java) |
 |  1301  |   [Game of Life](https://www.lintcode.com/problem/game-of-life/description)    |  |    Medium   |  [GameofLife.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/GameofLife.java) |
 
 ## String
