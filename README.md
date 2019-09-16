@@ -37,6 +37,7 @@ Tree
 |  213  | [String Compression](https://www.lintcode.com/problem/string-compression/description) | dfs | Easy | [StringCompression.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/StringCompression.java)  |
 |  639  | [Word Abbreviation](https://www.lintcode.com/problem/word-abbreviation/description) | hashmap | Hard | [WordAbbreviation.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/WordAbbreviation.java)  |
 |  640  | [One Edit Distance](https://www.lintcode.com/problem/one-edit-distance/description) | | Medium | [OneEditDistance.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/OneEditDistance.java)  |
+|  887  | [Ternary Expression Parser](https://www.lintcode.com/problem/ternary-expression-parser/description) | | Medium | [TernaryExpressionParser.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/TernaryExpressionParser.java)  |
 
 ## Dynamic Programming
 
