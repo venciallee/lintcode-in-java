@@ -59,6 +59,7 @@ Tree
 | #    | Title                                    | Solution                             | Difficulty | Source Code                              |
 | ---- | ---------------------------------------- | ------------------------------------ | ---------- | ---------------------------------------- |
 |  651  |   [Binary Tree Vertical Order Traversal](https://www.lintcode.com/problem/binary-tree-vertical-order-traversal/description)    |     bfs + hashmap     |       Medium     |     [BinaryTreeVerticalOrderTraversal.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/tree/BinaryTreeVerticalOrderTraversal.java)        |
+|  900  |   [Closest Binary Search Tree Value](https://www.lintcode.com/problem/closest-binary-search-tree-value/description)    | dfs |       Medium     |     [ClosestBinarySearchTreeValue.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/tree/ClosestBinarySearchTreeValue.java)        |
 
 ## Design
 
