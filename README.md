@@ -34,6 +34,7 @@ Tree
 |  192  | [Wildcard Matching](https://www.lintcode.com/problem/wildcard-matching/description) | dp or dfs | Hard | [WildcardMatching.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/WildcardMatching.java)  |
 |  213  | [String Compression](https://www.lintcode.com/problem/string-compression/description) | dfs | Easy | [StringCompression.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/StringCompression.java)  |
 |  639  | [Word Abbreviation](https://www.lintcode.com/problem/word-abbreviation/description) | hashmap | Hard | [WordAbbreviation.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/WordAbbreviation.java)  |
+|  640  | [One Edit Distance](https://www.lintcode.com/problem/one-edit-distance/description) | | Medium | [OneEditDistance.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/OneEditDistance.java)  |
 
 ## Dynamic Programming
 
