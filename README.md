@@ -42,6 +42,7 @@ Tree
 |  887  | [Ternary Expression Parser](https://www.lintcode.com/problem/ternary-expression-parser/description) | | Medium | [TernaryExpressionParser.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/TernaryExpressionParser.java)  |
 |  956  | [Data Segmentation](https://www.lintcode.com/problem/data-segmentation/description) | | Easy | [DataSegmentation.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/DataSegmentation.java)  |
 |  958  | [Palindrome Data Stream](https://www.lintcode.com/problem/palindrome-data-stream/description) | | Easy | [PalindromeDataStream.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/PalindromeDataStream.java)  |
+|  1255  | [Remove K Digits](https://www.lintcode.com/problem/remove-k-digits/description) | | Medium | [RemoveKDigits.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/RemoveKDigits.java)  |
 
 ## Dynamic Programming
 
