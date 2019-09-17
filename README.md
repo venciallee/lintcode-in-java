@@ -18,6 +18,7 @@ Tree
 
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
+|  56  |   [Two Sum](https://www.lintcode.com/problem/two-sum/description)    |    |    Easy   |  [TwoSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/TwoSum.java) |
 |  135  |   [Combination Sum](https://www.lintcode.com/problem/combination-sum/description)    |  backtrace   |    Medium   |  [CombinationSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/CombinationSum.java) |
 |  153  | [Combination Sum II](https://www.lintcode.com/problem/combination-sum-ii/description) |  backtrace   | Medium |[CombinationSumII.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/CombinationSumII.java)|
 |  389  |   [Valid Sudoku](https://www.lintcode.com/problem/valid-sudoku/solution)    |  |    Easy   |  [ValidSudoku.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/ValidSudoku.java) |
