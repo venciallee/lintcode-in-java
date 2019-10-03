@@ -49,6 +49,7 @@ Tree
 
 |  #    | Title  | Solution | Difficulty | Source Code |
 | ----- | -------- | -------- | ---------- | ----- |
+|  76  | [Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description) | dp | Medium | [LongestIncreasingSubsequence.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/LongestIncreasingSubsequence.java)  |
 |  110  | [Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description) | dp | Easy | [MinimumPathSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/MinimumPathSum.java)  |
 |  111  | [Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description) | dp | Easy | [ClimbingStairs.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/ClimbingStairs.java)  |
 |  116  | [Jump Game](https://www.lintcode.com/problem/jump-game/description) | dp | Medium | [JumpGame.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/JumpGame.java)  |
