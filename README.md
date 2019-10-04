@@ -50,6 +50,7 @@ Tree
 |  #    | Title  | Solution | Difficulty | Source Code |
 | ----- | -------- | -------- | ---------- | ----- |
 |  76  | [Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description) | dp | Medium | [LongestIncreasingSubsequence.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/LongestIncreasingSubsequence.java)  |
+|  107  | [Word Break](https://www.lintcode.com/problem/word-break/description) | dp | Medium | [WordBreak.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/WordBreak.java)  |
 |  109  | [Triangle](https://www.lintcode.com/problem/triangle/description) | dp | Medium | [Triangle.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/Triangle.java)  |
 |  110  | [Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description) | dp | Easy | [MinimumPathSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/MinimumPathSum.java)  |
 |  111  | [Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description) | dp | Easy | [ClimbingStairs.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/ClimbingStairs.java)  |
