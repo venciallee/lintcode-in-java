@@ -49,7 +49,10 @@ Tree
 
 |  #    | Title  | Solution | Difficulty | Source Code |
 | ----- | -------- | -------- | ---------- | ----- |
-|  76  | [Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description) | dp | Medium | [LongestIncreasingSubsequence.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/LongestIncreasingSubsequence.java)  |
+|  76  | [Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description) | dp | Medium | 
+[LongestIncreasingSubsequence.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/LongestIncreasingSubsequence.java)  |
+|  77  | [Longest Common Subsequence](https://www.lintcode.com/problem/longest-common-subsequence/description) | dp | Medium | 
+[LongestCommonSubsequence.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/LongestCommonSubsequence.java)  |
 |  107  | [Word Break](https://www.lintcode.com/problem/word-break/description) | dp | Medium | [WordBreak.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/WordBreak.java)  |
 |  108  | [Palindrome Partitioning II](https://www.lintcode.com/problem/palindrome-partitioning-ii/description) | dp | Medium | [PalindromePartitioningII.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/PalindromePartitioningII.java)  |
 |  109  | [Triangle](https://www.lintcode.com/problem/triangle/description) | dp | Medium | [Triangle.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/Triangle.java)  |
