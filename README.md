@@ -18,7 +18,9 @@ Tree
 
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
-|  56  |   [Two Sum](https://www.lintcode.com/problem/two-sum/description)    |    |    Easy   |  [TwoSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/TwoSum.java) |
+|  56  |   [Two Sum](https://www.lintcode.com/problem/two-sum/description)    |  hashmap   |    Easy   |  [TwoSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/TwoSum.java) |
+|  57  |   [3Sum](https://www.lintcode.com/problem/3sum/description)    |  two point  |    Medium   |  [ThreeSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/ThreeSum.java) |
+|  58  |   [4Sum](https://www.lintcode.com/problem/4sum/description)    |  two point  |    Medium   |  [FourSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/FourSum.java) |
 |  135  |   [Combination Sum](https://www.lintcode.com/problem/combination-sum/description)    |  backtrace   |    Medium   |  [CombinationSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/CombinationSum.java) |
 |  153  | [Combination Sum II](https://www.lintcode.com/problem/combination-sum-ii/description) |  backtrace   | Medium |[CombinationSumII.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/CombinationSumII.java)|
 |  389  |   [Valid Sudoku](https://www.lintcode.com/problem/valid-sudoku/solution)    |  |    Easy   |  [ValidSudoku.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/ValidSudoku.java) |
@@ -44,19 +46,21 @@ Tree
 |  640  | [One Edit Distance](https://www.lintcode.com/problem/one-edit-distance/description) | | Medium | [OneEditDistance.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/OneEditDistance.java)  |
 |  655  | [Add Strings](https://www.lintcode.com/problem/add-strings/description) | | Easy | [AddStrings.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/AddStrings.java)  |
 |  656  | [Multiply Strings](https://www.lintcode.com/problem/multiply-strings/description) | | Medium | [MultiplyStrings.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/MultiplyStrings.java)  |
+|  849  | [Basic Calculator III](https://www.lintcode.com/problem/basic-calculator-iii/description) | stack | Hard | [BasicCalculatorIII.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/BasicCalculatorIII.java)  |
 |  887  | [Ternary Expression Parser](https://www.lintcode.com/problem/ternary-expression-parser/description) | | Medium | [TernaryExpressionParser.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/TernaryExpressionParser.java)  |
+|  892  | [Alien Dictionary](https://www.lintcode.com/problem/alien-dictionary/description) | topological sort | Hard | [AlienDictionary.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/AlienDictionary.java)  |
 |  956  | [Data Segmentation](https://www.lintcode.com/problem/data-segmentation/description) | | Easy | [DataSegmentation.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/DataSegmentation.java)  |
 |  958  | [Palindrome Data Stream](https://www.lintcode.com/problem/palindrome-data-stream/description) | | Easy | [PalindromeDataStream.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/PalindromeDataStream.java)  |
+|  978  | [Basic Calculator](https://www.lintcode.com/problem/basic-calculator/description) | stack | Medium | [BasicCalculator.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/BasicCalculator.java)  |
+|  980  | [Basic Calculator II](https://www.lintcode.com/problem/basic-calculator-ii/description) | stack | Medium | [BasicCalculatorII.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/BasicCalculatorII.java)  |
 |  1255  | [Remove K Digits](https://www.lintcode.com/problem/remove-k-digits/description) | | Medium | [RemoveKDigits.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/RemoveKDigits.java)  |
 
 ## Dynamic Programming
 
 |  #    | Title  | Solution | Difficulty | Source Code |
 | ----- | -------- | -------- | ---------- | ----- |
-|  76  | [Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description) | dp | Medium | 
-[LongestIncreasingSubsequence.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/LongestIncreasingSubsequence.java)  |
-|  77  | [Longest Common Subsequence](https://www.lintcode.com/problem/longest-common-subsequence/description) | dp | Medium | 
-[LongestCommonSubsequence.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/LongestCommonSubsequence.java)  |
+|  76  | [Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description) | dp | Medium | [LongestIncreasingSubsequence.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/LongestIncreasingSubsequence.java)   |
+|  77  | [Longest Common Subsequence](https://www.lintcode.com/problem/longest-common-subsequence/description) | dp | Medium | [LongestCommonSubsequence.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/LongestCommonSubsequence.java)   |
 |  107  | [Word Break](https://www.lintcode.com/problem/word-break/description) | dp | Medium | [WordBreak.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/WordBreak.java)  |
 |  108  | [Palindrome Partitioning II](https://www.lintcode.com/problem/palindrome-partitioning-ii/description) | dp | Medium | [PalindromePartitioningII.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/PalindromePartitioningII.java)  |
 |  109  | [Triangle](https://www.lintcode.com/problem/triangle/description) | dp | Medium | [Triangle.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/dp/Triangle.java)  |
@@ -83,6 +87,8 @@ Tree
 
 | #    | Title                                    | Solution                             | Difficulty | Source Code                              |
 | ---- | ---------------------------------------- | ------------------------------------ | ---------- | ---------------------------------------- |
+|  69  |  [Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)    |   bfs    |       Easy     |     [BinaryTreeLevelOrderTraversal.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/tree/BinaryTreeLevelOrderTraversal.java)   |
+|  70  |  [Binary Tree Level Order Traversal II](https://www.lintcode.com/problem/binary-tree-level-order-traversal-ii/description)    |     bfs    |       Medium     | [BinaryTreeLevelOrderTraversalII.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/tree/BinaryTreeLevelOrderTraversalII.java)    |
 |  651  |   [Binary Tree Vertical Order Traversal](https://www.lintcode.com/problem/binary-tree-vertical-order-traversal/description)    |     bfs + hashmap     |       Medium     |     [BinaryTreeVerticalOrderTraversal.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/tree/BinaryTreeVerticalOrderTraversal.java)        |
 |  900  |   [Closest Binary Search Tree Value](https://www.lintcode.com/problem/closest-binary-search-tree-value/description)    | dfs |       Medium     |     [ClosestBinarySearchTreeValue.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/tree/ClosestBinarySearchTreeValue.java)        |
 
