@@ -98,5 +98,5 @@ Tree
 
 | #    | Title                                    | Solution                             | Difficulty | Source Code                              |
 | ---- | ---------------------------------------- | ------------------------------------ | ---------- | ---------------------------------------- |
-|      |       |          |            |             |
+|  204  |   [Singleton](https://www.lintcode.com/problem/singleton/description)    | ood |       Medium     |     [Singleton.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/Singleton.java)        |
 
