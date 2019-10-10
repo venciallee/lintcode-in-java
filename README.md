@@ -99,5 +99,6 @@ Tree
 | #    | Title                                    | Solution                             | Difficulty | Source Code                              |
 | ---- | ---------------------------------------- | ------------------------------------ | ---------- | ---------------------------------------- |
 |  204  | [Singleton](https://www.lintcode.com/problem/singleton/description)  | ood |   Naive  |     [Singleton.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/Singleton.java)        |
-|  456  | [Reference](https://www.lintcode.com/problem/reference/description)    | ood |       Naive     |     [ReferenceManager.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/ReferenceManager.java)        |
+|  456  | [Reference](https://www.lintcode.com/problem/reference/description)    | ood |       Naive     |  [ReferenceManager.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/ReferenceManager.java)  |
+|  560  | [Friendship Service](https://www.lintcode.com/problem/friendship-service/description)    | ood | Easy |  [FriendshipService.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/FriendshipService.java)  |
 
