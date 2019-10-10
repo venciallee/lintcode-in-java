@@ -18,6 +18,7 @@ Tree
 
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
+|  15  |   [Permutations](https://www.lintcode.com/problem/permutations/description)    |  backtrace   |    Medium   |  [Permutations.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/Permutations.java) |
 |  17  |   [Subsets](https://www.lintcode.com/problem/subsets/description)    |  backtrace   |    Medium   |  [Subsets.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/Subsets.java) |
 |  56  |   [Two Sum](https://www.lintcode.com/problem/two-sum/description)    |  hashmap   |    Easy   |  [TwoSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/TwoSum.java) |
 |  57  |   [3Sum](https://www.lintcode.com/problem/3sum/description)    |  two point  |    Medium   |  [ThreeSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/ThreeSum.java) |
