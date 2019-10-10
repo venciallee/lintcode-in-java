@@ -103,4 +103,5 @@ Tree
 |  560  | [Friendship Service](https://www.lintcode.com/problem/friendship-service/description)    | ood | Easy |  [FriendshipService.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/FriendshipService.java)  |
 |  566  | [GFS Client](https://www.lintcode.com/problem/gfs-client/description)    | ood | Medium |  [GFSClient.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/GFSClient.java)  |
 |  708  | [ElevatorSystem](https://www.lintcode.com/problem/elevator-system-oo-design/description)    | ood | Hard |  [ElevatorSystem.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/ElevatorSystem.java)  |
+|  748  | [Kindle OO Design](https://www.lintcode.com/problem/kindle-oo-design/description)    | ood | Medium |  [KindleOODesign.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/KindleOODesign.java)  |
 
