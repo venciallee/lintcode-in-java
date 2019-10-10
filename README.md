@@ -6,7 +6,9 @@ This is lintcode solution in Java with eplaination and generalization.
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
 |  35  |   [Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)    |          |       Easy     |     [ReverseLinkedList.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/linkedlist/ReverseLinkedList.java)        |
+|  104  |   [Merge K Sorted Lists](https://www.lintcode.com/problem/merge-k-sorted-lists/description)    | divide and merge 2 lists |    Medium   |  [MergeKSortedLists.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/linkedlist/MergeKSortedLists.java) |
 |  134  |   [LRU Cache](https://www.lintcode.com/problem/lru-cache/description)    |  HashMap + linkedlist   |    Hard   |  [LRUCache.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/linkedlist/LRUCache.java) |
+|  165  |   [Merge Two Sorted Lists](https://www.lintcode.com/problem/merge-two-sorted-lists/description)    | easy loop |    Easy   |  [MergeTwoSortedLists.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/linkedlist/MergeTwoSortedLists.java) |
 
 Tree
 
