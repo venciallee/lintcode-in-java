@@ -18,6 +18,8 @@ Tree
 
 | #    | Title | Solution | Difficulty | Source Code |
 | ---- | ----- | -------- | ---------- | ----------- |
+|  15  |   [Permutations](https://www.lintcode.com/problem/permutations/description)    |  backtrace   |    Medium   |  [Permutations.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/Permutations.java) |
+|  17  |   [Subsets](https://www.lintcode.com/problem/subsets/description)    |  backtrace   |    Medium   |  [Subsets.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/Subsets.java) |
 |  56  |   [Two Sum](https://www.lintcode.com/problem/two-sum/description)    |  hashmap   |    Easy   |  [TwoSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/TwoSum.java) |
 |  57  |   [3Sum](https://www.lintcode.com/problem/3sum/description)    |  two point  |    Medium   |  [ThreeSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/ThreeSum.java) |
 |  58  |   [4Sum](https://www.lintcode.com/problem/4sum/description)    |  two point  |    Medium   |  [FourSum.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/array/FourSum.java) |
@@ -40,6 +42,7 @@ Tree
 |  32  |   [Minimum Window Substring](https://www.lintcode.com/problem/minimum-window-substring/description)    |     slide window     |       Medium     |     [MinimumWindowSubstring.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/MinimumWindowSubstring.java)        |
 |  53  | [Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description) | reverse whole char, and reverse each word. | Easy | [ReverseWordsinaString.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/ReverseWordsinaString.java)  |
 |  120  | [Word Ladder](https://www.lintcode.com/problem/word-ladder/description) | bfs | Hard | [WordLadder.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/WordLadder.java)  |
+|  136  | [Palindrome Partitioning](https://www.lintcode.com/problem/palindrome-partitioning/description) | backtrace | Medium | [PalindromePartitioning.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/PalindromePartitioning.java)  |
 |  158  | [Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description) | | Easy | [ValidAnagram.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/ValidAnagram.java)  |
 |  192  | [Wildcard Matching](https://www.lintcode.com/problem/wildcard-matching/description) | dp or dfs | Hard | [WildcardMatching.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/WildcardMatching.java)  |
 |  213  | [String Compression](https://www.lintcode.com/problem/string-compression/description) | dfs | Easy | [StringCompression.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/string/StringCompression.java)  |
@@ -98,5 +101,10 @@ Tree
 
 | #    | Title                                    | Solution                             | Difficulty | Source Code                              |
 | ---- | ---------------------------------------- | ------------------------------------ | ---------- | ---------------------------------------- |
-|      |       |          |            |             |
+|  204  | [Singleton](https://www.lintcode.com/problem/singleton/description)  | ood |   Naive  |     [Singleton.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/Singleton.java)        |
+|  456  | [Reference](https://www.lintcode.com/problem/reference/description)    | ood |       Naive     |  [ReferenceManager.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/ReferenceManager.java)  |
+|  560  | [Friendship Service](https://www.lintcode.com/problem/friendship-service/description)    | ood | Easy |  [FriendshipService.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/FriendshipService.java)  |
+|  566  | [GFS Client](https://www.lintcode.com/problem/gfs-client/description)    | ood | Medium |  [GFSClient.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/GFSClient.java)  |
+|  708  | [ElevatorSystem](https://www.lintcode.com/problem/elevator-system-oo-design/description)    | ood | Hard |  [ElevatorSystem.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/ElevatorSystem.java)  |
+|  748  | [Kindle OO Design](https://www.lintcode.com/problem/kindle-oo-design/description)    | ood | Medium |  [KindleOODesign.java](https://github.com/venciallee/lintcode-in-java/tree/master/lintcode/app/src/main/java/com/bytetree/lintcode/design/ood/KindleOODesign.java)  |
 
